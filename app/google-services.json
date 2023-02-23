@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764770069623",
+    "project_id": "bakiliya",
+    "storage_bucket": "bakiliya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764770069623:android:1fbadb1ebac0c56bd0aa72",
+        "android_client_info": {
+          "package_name": "br.com.local.bakiliya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764770069623-gvk1t3nf0762mhmblchl795374fvh1uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPTzrAqXOoOTThcHHXsd2Zf18S4vObO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764770069623-gvk1t3nf0762mhmblchl795374fvh1uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
